@@ -1,0 +1,1 @@
+In your database, don't use 'root' as your database account
